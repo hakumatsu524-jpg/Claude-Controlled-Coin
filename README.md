@@ -1,3 +1,3 @@
-Claude Controlled Coin:
+# Coffee acceleration
 
 CA: 
